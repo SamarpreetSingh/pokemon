@@ -1,0 +1,12 @@
+.btn {
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px 2px;
+    width: 5rem;
+}
+.next-btn {
+    background-color: green;
+}
+.prev-btn {
+    background-color: rgb(224, 72, 45);
+}   

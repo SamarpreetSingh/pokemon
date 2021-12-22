@@ -1,0 +1,16 @@
+.pokemon-list {
+    background-color: rgb(59, 59, 59);
+    border: 2px solid rgb(250, 248, 248);
+    width: 50%;
+    margin: 0 auto;
+    padding: 10px 10px;
+    font-size: 1.2rem;
+    border-radius: 12px;
+    box-shadow: 2px 2px 5px rgb(73, 72, 72);
+    font-family: cursive;
+    line-height: 26px;
+    letter-spacing: 1px;
+}
+.pokemon-list div{
+    background-color: rgb(59, 59, 59);
+}
